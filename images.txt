@@ -5,7 +5,12 @@ jitsi/jvb:stable-9646
 jitsi/jicofo:stable-9646
 jitsi/prosody:stable-9646
 jitsi/web:stable-9646
-
+jitsi/excalidraw-backend:21
+prom/prometheus
+grafana/loki:3.0.0
+otel/opentelemetry-collector-contrib
+grafana/grafana:10.2.0
+etherpad/etherpad:2.0.3
 
 #支持指定架构
 --platform=linux/amd64
