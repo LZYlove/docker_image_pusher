@@ -1,6 +1,4 @@
 nginx
-#支持私库
-k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 jitsi/jibri:stable-9646
 jitsi/jigasi:stable-9646
 jitsi/jvb:stable-9646
