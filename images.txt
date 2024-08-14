@@ -8,4 +8,4 @@ jitsi/web:stable-9646
 
 
 #支持指定架构
---platform=linux/amd64 lorend/alist
+--platform=linux/amd64
