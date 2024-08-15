@@ -12,5 +12,3 @@ otel/opentelemetry-collector-contrib
 grafana/grafana:10.2.0
 etherpad/etherpad:2.0.3
 
-#支持指定架构
---platform=linux/amd64
