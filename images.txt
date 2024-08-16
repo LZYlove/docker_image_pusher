@@ -11,4 +11,5 @@ grafana/loki:3.0.0
 otel/opentelemetry-collector-contrib
 grafana/grafana:10.2.0
 etherpad/etherpad:2.0.3
+sigoden/dufs
 
