@@ -12,4 +12,5 @@ otel/opentelemetry-collector-contrib
 grafana/grafana:10.2.0
 etherpad/etherpad:2.0.3
 sigoden/dufs
-
+messense/rust-musl-cross:x86_64-musl
+messense/rust-musl-cross:aarch64-musl
