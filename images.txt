@@ -16,3 +16,4 @@ messense/rust-musl-cross:x86_64-musl
 messense/rust-musl-cross:aarch64-musl
 alpine:latest
 filebrowser/filebrowser
+screego/server
