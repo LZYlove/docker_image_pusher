@@ -17,3 +17,7 @@ messense/rust-musl-cross:aarch64-musl
 alpine:latest
 filebrowser/filebrowser
 ghcr.io/screego/server:1.10.5
+certbot/certbot
+postgres:13-alpine
+mattermost/mattermost-enterprise-edition:8.1.9
+nginx:alpine
