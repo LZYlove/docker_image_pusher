@@ -20,4 +20,5 @@ ghcr.io/screego/server:1.10.5
 certbot/certbot
 postgres:13-alpine
 mattermost/mattermost-enterprise-edition:8.1.9
+mattermost/focalboard
 nginx:alpine
