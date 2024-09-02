@@ -23,3 +23,5 @@ mattermost/mattermost-enterprise-edition:8.1.9
 mattermost/focalboard
 cloudreve/cloudreve
 nginx:alpine
+jwilder/nginx-proxy:latest
+postgres:latest
