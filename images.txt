@@ -28,4 +28,4 @@ postgres:latest
 node:16.3.0
 golang:1.18.3
 debian:buster-slim
-openclaw/openclaw:latest
+ghcr.io/openclaw/openclaw:latest
